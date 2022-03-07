@@ -1,0 +1,12 @@
+:root {
+    --color1: #a7a7a7;
+    --color2: #6c6c6c;
+}
+
+.bg-navigation {
+    background-color: var(--color1);
+}
+
+.colortext {
+    color: var(--color2);
+}
