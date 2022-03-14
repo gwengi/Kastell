@@ -10,3 +10,7 @@
 .colortext {
     color: var(--color2);
 }
+
+svg {
+    margin-right: 5px;
+}
